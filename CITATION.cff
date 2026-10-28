@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Commutation-aware compilation of the QAOA cost layer on a line: effect on the noise budget"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-10-28
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/commuting-qaoa-line-compiler-noise-budget"
+abstract: "Simulation study of how much of the noise budget of depth-1 and depth-2 QAOA for MaxCut on a line-connected device is decided by the compiler, comparing Qiskit, a swap network and a commutation-aware router with exact density-matrix noise simulation."
+keywords:
+  - QAOA
+  - quantum compilation
+  - noise
+  - MaxCut
